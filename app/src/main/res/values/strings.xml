@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">08.2.Intent-2</string>
+    <string name="gotoSumActivity">Go to SumActivity</string>
+    <string name="gotoSumActivityData">Go to SumActivity hava Data</string>
+    <string name="gotoSumActivityEdit">Go to SumActivity using Edittex</string>
+</resources>
